@@ -33,9 +33,7 @@ def get_text_clean(soup_element, label_to_remove):
 # --- 2. FONCTIONS D'EXTRACTION ---
 
 def extract_field(soup, label_str):
-    """
-    Récupère une métadonnée simple (Date, Provenance, Material, Language, Content).
-    """
+    """ Récupère une métadonnée simple (Date, Provenance, Material, Language, Content). """
     label_str_colon = label_str + ":"
     
     # Stratégie A : Bloc standard .division
@@ -84,6 +82,39 @@ def extract_greek_text(soup):
     lines = [line.strip() for line in text_content.split('\n')]
     return "\n".join(line for line in lines if line)
 
+def extract_collections(soup):
+    """ 
+    Récupère la liste des collections dans le bloc #text-coll.
+    Gère les séparateurs comme '→' ou '∙' et les sauts de ligne <br>.
+    """
+    collections = []
+    container = soup.select_one("#text-coll")
+    
+    if container:
+        temp_container = copy.copy(container)
+        
+        # On supprime le titre <h4>Collections</h4>
+        h4 = temp_container.find("h4")
+        if h4: h4.decompose()
+        
+        # On remplace les <br> par des sauts de ligne pour bien séparer les entrées
+        for br in temp_container.find_all("br"):
+            br.replace_with("\n")
+            
+        # On récupère le texte global
+        full_text = temp_container.get_text("\n", strip=True)
+        
+        # On sépare ligne par ligne
+        lines = full_text.split("\n")
+        
+        for line in lines:
+            # Nettoyage des caractères spéciaux de début de ligne (flèches, points, tirets)
+            clean_line = line.strip().lstrip("→∙-").strip()
+            if clean_line:
+                collections.append(clean_line)
+                
+    return collections
+
 def extract_people(soup):
     """ Récupère la liste des personnes (onglet People). """
     names = []
@@ -109,7 +140,6 @@ def extract_places(soup):
 def extract_irregularities(soup):
     """ Récupère la liste des irrégularités (onglet Text Irregularities). """
     irregularities = []
-    # Cible l'ID 'texirr-list'
     irr_list = soup.find(id="texirr-list")
     if irr_list:
         items = irr_list.find_all("li", class_="item-large")
@@ -120,7 +150,7 @@ def extract_irregularities(soup):
 
 # --- 3. LOGIQUE PRINCIPALE DE SCRAPING ---
 
-def scrape_trismegistos_ultimate(start_index=1, end_index=10):
+def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
     base_url = "https://www.trismegistos.org/text/"
     results = {}
 
@@ -156,7 +186,7 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
             
             print(f"[{i}] Traitement complet...")
 
-            # Initialisation du dictionnaire (sans Status)
+            # Initialisation du dictionnaire
             item_data = {
                 "id": i,
                 "url": main_url,
@@ -165,6 +195,7 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
                 "Date": None,
                 "Provenance": None,
                 "Material": None,
+                "Collections": [],
                 "Publications": [],
                 "GreekText": None,
                 "People": [],
@@ -173,7 +204,7 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
             }
 
             try:
-                # ÉTAPE 1 : Page principale (Métadonnées + Texte)
+                # ÉTAPE 1 : Page principale (Métadonnées, Texte, Collections)
                 driver.get(main_url)
                 time.sleep(random.uniform(1.0, 1.5))
                 soup_main = BeautifulSoup(driver.page_source, 'html.parser')
@@ -182,13 +213,16 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
                 if "Page not found" in soup_main.text or "No record found" in soup_main.text:
                     print(f"  -> Page vide/inexistante.")
                 else:
-                    # Extraction métadonnées
+                    # Métadonnées
                     item_data["Language"] = extract_field(soup_main, "Language/script")
                     item_data["Content"] = extract_field(soup_main, "Content (beta!)")
                     item_data["Date"] = extract_field(soup_main, "Date")
                     item_data["Provenance"] = extract_field(soup_main, "Provenance")
                     item_data["Material"] = extract_field(soup_main, "Material")
+                    
+                    # Listes (Publications, Collections, Texte Grec)
                     item_data["Publications"] = extract_publications(soup_main)
+                    item_data["Collections"] = extract_collections(soup_main)
                     item_data["GreekText"] = extract_greek_text(soup_main)
 
                     # ÉTAPE 2 : People
@@ -210,10 +244,10 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
                     item_data["Irregularities"] = extract_irregularities(soup_irr)
 
                     # Logs
-                    p_count = len(item_data["People"])
-                    pl_count = len(item_data["Places"])
-                    irr_count = len(item_data["Irregularities"])
-                    print(f"  -> Ppl: {p_count} | Places: {pl_count} | Irr: {irr_count}")
+                    n_coll = len(item_data["Collections"])
+                    n_ppl = len(item_data["People"])
+                    n_irr = len(item_data["Irregularities"])
+                    print(f"  -> Collections: {n_coll} | Ppl: {n_ppl} | Irr: {n_irr}")
 
             except Exception as e:
                 print(f"  -> Erreur sur ID {i}: {e}")
@@ -229,9 +263,9 @@ def scrape_trismegistos_ultimate(start_index=1, end_index=10):
     return results
 
 if __name__ == "__main__":
-    data = scrape_trismegistos_ultimate(start_index=1, end_index=10)
+    data = scrape_trismegistos_complete_v5(start_index=1, end_index=10)
     
-    filename = 'trismegistos_data_papyrus_1-10.json'
+    filename = 'trismegistos_full_dataset_final.json'
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
