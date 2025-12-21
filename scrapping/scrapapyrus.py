@@ -83,37 +83,50 @@ def extract_greek_text(soup):
     return "\n".join(line for line in lines if line)
 
 def extract_collections(soup):
-    """ 
-    Récupère la liste des collections dans le bloc #text-coll.
-    Gère les séparateurs comme '→' ou '∙' et les sauts de ligne <br>.
-    """
+    """ Récupère la liste des collections (#text-coll). """
     collections = []
     container = soup.select_one("#text-coll")
     
     if container:
         temp_container = copy.copy(container)
-        
-        # On supprime le titre <h4>Collections</h4>
         h4 = temp_container.find("h4")
         if h4: h4.decompose()
         
-        # On remplace les <br> par des sauts de ligne pour bien séparer les entrées
         for br in temp_container.find_all("br"):
             br.replace_with("\n")
             
-        # On récupère le texte global
         full_text = temp_container.get_text("\n", strip=True)
-        
-        # On sépare ligne par ligne
         lines = full_text.split("\n")
         
         for line in lines:
-            # Nettoyage des caractères spéciaux de début de ligne (flèches, points, tirets)
             clean_line = line.strip().lstrip("→∙-").strip()
             if clean_line:
                 collections.append(clean_line)
-                
     return collections
+
+def extract_archive(soup):
+    """ 
+    Récupère la liste des archives (#text-arch). 
+    """
+    archives = []
+    container = soup.select_one("#text-arch")
+    
+    if container:
+        # Copie pour nettoyer
+        temp_container = copy.copy(container)
+        
+        # Enlève le titre <h4>Archive</h4>
+        h4 = temp_container.find("h4")
+        if h4: h4.decompose()
+        
+        # Récupère le texte des balises <p>
+        paragraphs = temp_container.find_all("p")
+        for p in paragraphs:
+            text = p.get_text(" ", strip=True)
+            if text:
+                archives.append(text)
+                
+    return archives
 
 def extract_people(soup):
     """ Récupère la liste des personnes (onglet People). """
@@ -150,7 +163,7 @@ def extract_irregularities(soup):
 
 # --- 3. LOGIQUE PRINCIPALE DE SCRAPING ---
 
-def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
+def scrape_trismegistos_complete_v6(start_index=1, end_index=10):
     base_url = "https://www.trismegistos.org/text/"
     results = {}
 
@@ -195,6 +208,7 @@ def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
                 "Date": None,
                 "Provenance": None,
                 "Material": None,
+                "Archive": [],
                 "Collections": [],
                 "Publications": [],
                 "GreekText": None,
@@ -204,7 +218,7 @@ def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
             }
 
             try:
-                # ÉTAPE 1 : Page principale (Métadonnées, Texte, Collections)
+                # ÉTAPE 1 : Page principale (Métadonnées, Texte, Collections, Archive)
                 driver.get(main_url)
                 time.sleep(random.uniform(1.0, 1.5))
                 soup_main = BeautifulSoup(driver.page_source, 'html.parser')
@@ -220,9 +234,10 @@ def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
                     item_data["Provenance"] = extract_field(soup_main, "Provenance")
                     item_data["Material"] = extract_field(soup_main, "Material")
                     
-                    # Listes (Publications, Collections, Texte Grec)
+                    # Listes (Publications, Collections, Archive, Texte Grec)
                     item_data["Publications"] = extract_publications(soup_main)
                     item_data["Collections"] = extract_collections(soup_main)
+                    item_data["Archive"] = extract_archive(soup_main)
                     item_data["GreekText"] = extract_greek_text(soup_main)
 
                     # ÉTAPE 2 : People
@@ -245,9 +260,8 @@ def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
 
                     # Logs
                     n_coll = len(item_data["Collections"])
-                    n_ppl = len(item_data["People"])
-                    n_irr = len(item_data["Irregularities"])
-                    print(f"  -> Collections: {n_coll} | Ppl: {n_ppl} | Irr: {n_irr}")
+                    n_arch = len(item_data["Archive"])
+                    print(f"  -> Coll: {n_coll} | Arch: {n_arch} | Ppl: {len(item_data['People'])}")
 
             except Exception as e:
                 print(f"  -> Erreur sur ID {i}: {e}")
@@ -263,9 +277,9 @@ def scrape_trismegistos_complete_v5(start_index=1, end_index=10):
     return results
 
 if __name__ == "__main__":
-    data = scrape_trismegistos_complete_v5(start_index=1, end_index=10)
+    data = scrape_trismegistos_complete_v6(start_index=1, end_index=10)
     
-    filename = 'trismegistos_full_dataset_final.json'
+    filename = 'data_papyrus_1_to_10.json'
     with open(filename, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=2)
     
