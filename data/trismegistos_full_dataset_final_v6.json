@@ -1,0 +1,620 @@
+{
+  "1": {
+    "id": 1,
+    "url": "https://www.trismegistos.org/text/1",
+    "Language": "Greek",
+    "Content": "Contract: cession",
+    "Date": "Metadata  BC 124 Aug 22 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Content (beta!): Contract: cession Recto/Verso: Ro/Vo, back: address More info: BL Online , DDbDP (PN) , HGV Publications P. Adler Gr. 2  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 829 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 2 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "papyrus",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 829",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 2 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 2  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G21  ἀντίγραφον  ὁμολογίας.\n2  ἔτους  μϛ Μεσορὴ  δ  ἐν̣  Π̣αθύρε̣[ι]  [ἐφʼ]  [Ἡλιοδώρου]  [ἀγορανόμου].\n3  ὁμολογεῖ  Πανερεῦς  Γούν̣σιος  Π̣[έρσης]  [καὶ]  [Σενενοῦπις]  [Φίβιος]\n4  Περσίνηι*  μετὰ  κυρίου  το̣ῦ  ἑαυτῆς̣  [ἀνδρὸς?]  [Πανερεῦτος]  [τοῦ]\n5  προγεγραμμένου,  Πανεβχούν̣[ει]  [καὶ]  [Ὥρωι]  [καὶ]  [Φίβει]  [καὶ?]\n6  Πασήμει  τ̣οῖς  τεσσαρασι*  τῶν  [ἐκ]  [Παθύρεως]  [Πέρσαις]  [τῶν]  [προσ]-\n7  γράφων  ἀφ̣ίστασθαι  ἀπὸ  τῶν  ὑπ̣[οτεθειμένων]  [σὺν]  [Θαΐβει]\n8  Φίβιος  τῆι  τούτων  μητρὶ  κ[ατὰ]  [συγγραφὴν]  [ὠνῆς]  [ἐν]  [πίστει]  [διὰ]  [τῶν]\n9  περὶ  τὸν  Πανεβχοῦνις*  ἐκτελ[ειωθεῖσαν?]  [τῶι]  [..]  [(ἔτει)]  [ἀντὶ]\n10  ὀφειλημά̣τ̣ω̣ν̣,  οὐκ  ἐπελευσομ̣έ[νους]  [τὸν]  [Πανερέα]  [καὶ]  [τὴν]\n11  Σενενοῦπι̣ν̣  περὶ  ὀφειλημάτ[ων]  [μηδὲ]  [περὶ]  [ἄλλου]  [μηδενός].\n12  ταῦτα  δ̣[ὲ]  μὴ  ἐξέστωι*  Πα̣ν̣ε̣ρ̣[εῖ]  [καὶ]  [Σενενούπει]  [μὴ]\n13  ἐπιπορεύεσθαι  ἐπὶ  τὰ  ἐν[έχυρα]  μι̣δεν[ό]ς*.\n14  ὅς  ἄν  ἐπέλθηι  ἢ  ἄλλος  τ̣[ις]  ὑπὲρ  αὐτ̣ῶν\n15  ἐπὶ  τοὺς  περὶ  τὸν  Πανεβχοῦν[ιν]  ἀποτεισάτω\n16  ἐπ̣ίτιμον  παραχρῆμα  [χαλ]κοῦ  (τάλαντα)  εἴκοσι\n17  καὶ  ἱερὰς  τοῖς  βασιλεῦσι  [ἀργυρί]ου  ἐπισήμου\n18  δραχμὰς  τριακοσίας.  ἡ  δὲ  ὁμολ[ογία]ι*  ἥδε  κυρίαι*\n19  ἔστωι*  πανταχοῦ  οὗ  ἂν  ἐπιφέ̣ρ̣[ηται].\n20  Ἄρειος  ὁ  παρʼ  Ἡλιοδ̣[ώ]ρ̣[ο]υ̣  κεχ[ρη(μάτικα)].",
+    "People": [
+      "Ἡλιοδώρου",
+      "Πανερεῦς",
+      "Γούνσιος",
+      "Σενενοῦπις",
+      "Φίβιος",
+      "Πανερεῦτος",
+      "Πανεβχούνει",
+      "Φίβει",
+      "Ὥρωι",
+      "Πασήμει",
+      "Θαΐβει",
+      "Φίβιος",
+      "Πανεβχουνις",
+      "Πανερέα",
+      "Σενενοῦπιν",
+      "Πανερεῖ",
+      "Σενενούπει",
+      "Πανεβχοῦνιν",
+      "Ἄρειος",
+      "Ἡλιοδώρου"
+    ],
+    "Places": [
+      "ἐν̣ Π̣αθυρε̣[ι]",
+      "Π̣[έρσης]",
+      "Περσίνηι (read: Περσίνη)",
+      "[ἐκ Παθυρεως]",
+      "[Πέρσαις]"
+    ],
+    "Irregularities": [
+      "ἐξέστωι: read ἐξέστω",
+      "μιδενός: read μηδενός",
+      "κυρίαι: read κυρία",
+      "ὁμολογίαι: read ὁμολογία",
+      "ἔστωι: read ἔστω",
+      "Περσίνηι: read Περσίνη",
+      "τεσσαρασι: read τέσσαρσι",
+      "Πανεβχοῦνις: read Πανεβχοῦνιν"
+    ]
+  },
+  "2": {
+    "id": 2,
+    "url": "https://www.trismegistos.org/text/2",
+    "Language": "Greek",
+    "Content": "Receipt: taxes",
+    "Date": "Metadata  (a) BC 112 Dec 4 (b) BC 112 Dec 18 Provenance: Pathyris (Gebelein) ? - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Completely preserved Content (beta!): Receipt: taxes Recto/Verso: Ro, back: blank? Seal: TM Seal 883 Note: seal between the first and second column More info: BL Online , DDbDP (PN) , HGV [ 2 ] Publications P. Adler Gr. 3  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 830 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 3 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) ? - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 830",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 3 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 3  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G3_11  ἔ̣τ̣ο̣υ̣ς̣  [ϛ]\n2 Ἁ̣θ̣(ὺρ)  ιϛ  ἀπέ̣δ̣[οτο]\n3  Πα̣σῆμις  Ν̣ε̣χού(του)\n4  τὴν̣  ὑπ(άρχουσαν)  αὐτῷ  μερ(ίδα)\n5  γῆς̣  ἠ̣π̣(είρου)  λεγο̣(μένης)  Τ̣έλ̣ω(νος)\n6  τ̣ὸ  (ἥμισυ)  καὶ  φο̣ι̣νι(κῶνος)\n7  τὴ̣ν̣  αὐτὴν̣  μερ(ίδα).\n8  ἐ̣π̣ρί̣α̣τ̣ο̣  Ὧρος\n9  Ν̣ε̣χ̣ο̣ύ̣(του)  χα̣(λκοῦ)  (ταλάντων)  β  <(δραχμῶν)>  Βφ.p.adl.G3_21  β[ασ]ι̣λε̣υόντω̣ν̣ Κ̣λεο̣πάτ̣ρας  καὶ  βασιλέως Πτολεμαίο̣υ̣  θ̣εῶ̣[ν] [Φ]ιλ̣ομητ̣[ό]ρ̣ων Σ̣ω̣τ̣ή̣[ρων]\n2  ἔτ[ο]υ̣ς  ϛ̣  ἐφʼ  ἱερ̣είως*  βασιλέως  πτολεμαίου  θ̣εοῦ Φιλομήτορος Σωτῆρος Ἀλε̣ξάνδρου  καὶ  θεῶν̣\n3 Σωτή̣ρων  καὶ  θεῶν Ἀδελφῶν̣  καὶ  θεῶν̣ Εὐεργετῶν  κ̣αὶ  θεῶν Φι̣λοπατόρ̣ων  κ[αὶ]  θεῶν\n4 Ἐπ̣[ι]φανῶν  καὶ  θεοῦ Εὐπάτορος̣  καὶ  θεοῦ Φιλομήτορος̣  καὶ  θεοῦ Φ[ι]λοπάτο̣ρος Ν̣έ̣ου\n5  κα[ὶ]  θεο̣ῦ Εὐεργέτου  καὶ  θεῶν Φιλ̣ομητόρων Σωτήρων̣,  ἱεροῦ  πώλου  Ἴσιδος  με̣[γ]άλης\n6  μητρὸς  θ̣εῶν,  ἀθλοφόρου Βερε̣ν̣ί̣κης Ε[ὐ]εργέτιδο[ς]  [,]  [κανηφόρ]ου Ἀρσι̣ν̣όης̣ [Φιλαδέλφου]  [,]\n7  ἱερείας Ἀρσινόης̣ Φ̣ι̣λοπάτορο̣[ς]  [,]  τῶν  ὄντω̣ν  <καὶ>  <οὐσῶν>  ἐν  Ἀλεξ̣α[νδρείᾳ]  [,]\n8  ἐν  δὲ  Πτολεμαΐδι  τῆς  Θηβαΐδος  ἐφʼ  ἱερείων*  καὶ  ἱερισσῶν  καὶ  κανηφόρου  τῶν̣  ὄντων\n9  καὶ  οὐσῶν  ἐν  Πτολε̣μαΐδι,  μηνὸς Ἁθὺρ  ιϛ  ἐν  Παθύρει  ἐφʼ  Ἡλιοδώρου  ἀγορανόμου.\n10  ἀπέδοτο  Πασῆμις  Νεχούτου  Πέρσης  τῆς  ἐπιγονῆς  ὡς  (ἐτῶν)  λ  ἐλάσσω  μελίχρως\n11  ὑποκλαστὸς  πλατυπρόσωπος  εὐθύριν  ἀπὸ  τῆς  ὑπαρχού[σ]ης  αὐτῷ  μερίδος  γῆς\n12  σιτοφόρου  ἐν  τῷ  περὶ  Παθῦ(ριν)  πεδίωι  τὸ  (ἥμισυ),  γείτονες  νότο[υ]  γῆ  Πατσεοῦτος,\n13 βορρᾶ  γῆ  Πατοῦτος  τοῦ  Πελαίου,  ἀπηλιώτου  τεῖχος  τῶν  ἀμπελώνων,  λιβὸς\n14  γῆ  χέρσος  Πατοῦτος  τοῦ  Φίβιος,  ἢ  οἳ  ἂ̣ν  ὦσι,  καὶ  ἀπὸ  τοῦ  φοινικῶνος  τὸ  (ἥμισυ),\n15  γείτονες  νότου  Σάθω(νος), βορρᾶ  Νεχούτου  τοῦ̣  Γούνσιος,  ἀπηλι(ώτου)  ποταμὸς,  λιβὸς  διῶρυξ,  ἢ  οἳ  ἂν\n16  ὦσι  γεί̣το(νες),  ἧς  μέτ̣εστι  τοῖς  ἀδ(ελφοῖς)  ἀδι(αιρέτως).  ἐπρίατο  Ὧρος  Νεχούτου  χαλκοῦ  (ταλάντων)  β  Βφ.  προπωλη(τὴς)p.adl.G3_31  κ̣αὶ  βε̣[βα]ιωτ̣[ὴς]  [τῆ]ς  ὠν̣ῆ̣[ς]\n2  ὁ  ἀ̣ποδόμ̣εν[ος]  [,]  [ὃν]  ἐδ̣[έ]ξ[ατο]\n3  Ὧρ̣ος  ὁ  πρι̣άμεν̣[ος].\n4  Ἀμ̣μώ(νιος)  ὁ  [παρʼ]  [Ἡ]λι(οδώρου)  κεχρη̣(μάτικα).\n5  ἔτο̣υ̣ς  ϛ Ἁθὺρ  λ  τέ(τακται)  ἐ̣πὶ  τὴν̣  ἐν  Κρο̣(κοδίλων)  [πό(λει)]  [τρά(πεζαν)]  [ἐφʼ]  [ἧς]\n6  Ἀ̣π̣ολλώ(νιος)  (δεκάτης)  ἐγκυ(κλίου)  κατὰ  τὴν  παρὰ  [........]\n7  το̣ῦ̣  τ̣ελών̣ο̣υ̣  διαγρα(φήν),  ὑ̣φʼ  ἣν  ὑπ̣ογρ̣ά(φει)  [........]\n8  ὁ  ἀν̣τ̣ιγρα(φεύς),  Ὧρος  Νεχούτου  ὧν  ἠ̣[γόρασεν]\n9  ἐν̣  τ̣ῶι  περὶ  Παθῦ̣(ριν)  π̣εδίῳ  γ̣ῆ̣ς̣  ἠ̣π̣(είρου)  [καὶ]  [φοινι(κῶνος)]  [παρὰ]\n10  Πα̣σ̣ήμιος  τοῦ  Νεχούτου  χα(λκοῦ)  (ταλάντων)  β  [Βφ]  [τέλος]  [Αυν].\n11  Ἀπ̣ο̣λλ̣ώ(νιος)  τρα(πεζίτης).",
+    "People": [
+      "Πασῆμις",
+      "Νεχούτου",
+      "Τέλωνος",
+      "Ὧρος",
+      "Νεχούτου",
+      "Ἡλιοδώρου",
+      "Νεχούτου",
+      "Πασῆμις",
+      "Πατσεοῦτος",
+      "Πατοῦτος",
+      "Πελαίου",
+      "Φίβιος",
+      "Πατοῦτος",
+      "Γούνσιος",
+      "Σάθωνος",
+      "Νεχούτου",
+      "Ὧρος",
+      "Νεχούτου",
+      "Ὧρος",
+      "Ἀμμώνιος",
+      "Ἡλιοδώρου",
+      "Ἀπολλώνιος",
+      "Ὧρος",
+      "Νεχούτου",
+      "Πασήμιος",
+      "Νεχούτου",
+      "Ἀπολλώνιος"
+    ],
+    "Places": [
+      "γῆς ἠπ(είρου) λεγο(μένης) Τέλω(νος)",
+      "ἐν Ἀλεξ̣α[νδρείᾳ]",
+      "ἐν δὲ Πτολεμαίδι",
+      "τῆς Θηβαίδος",
+      "ἐν Πτολεμαίδι",
+      "ἐν Παθυρει",
+      "Πέρσης τῆς ἐπιγονῆς",
+      "περὶ Παθυ(ριν)",
+      "ποταμός",
+      "διῶρυξ",
+      "ἐν Κρο̣(κοδίλων) [πό(λει)]",
+      "περὶ Παθυ̣(ριν)"
+    ],
+    "Irregularities": [
+      ": read <(δραχμῶν)>",
+      ": read <καὶ οὐσῶν>",
+      "ἱερείως: read ἱερέως",
+      "ἱερείων: read ἱερέων"
+    ]
+  },
+  "3": {
+    "id": 3,
+    "url": "https://www.trismegistos.org/text/3",
+    "Language": "Greek",
+    "Content": "Contract",
+    "Date": "Metadata  BC 109 Feb 10 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] written by Dionysios of the demos Berenike in U08 Ptolemais, but this does not necessarily imply that the document has been written in Ptolemais Language/script: Greek Material: papyrus Incompletely preserved Content (beta!): Contract Recto/Verso: Ro More info: BL Online , DDbDP (PN) , HGV Publications P. Adler Gr. 4  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] ∙ Keenan e.a. (ed.), Law and legal practice in Egypt p. 43-44 no. 2.1.5 ( Yiftach-Firanko, Uri - 2014) Other bibliography: Ziegler, ZPE 125 (1999), p. 214 (date) Collections → Copenhagen, Carlsberg Papyrus Collection P. 831 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 4 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] written by Dionysios of the demos Berenike in U08 Ptolemais, but this does not necessarily imply that the document has been written in Ptolemais",
+    "Material": "",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 831",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 4 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 4  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]",
+      "∙ Keenan e.a. (ed.), Law and legal practice in Egypt p. 43-44 no. 2.1.5 ( Yiftach-Firanko, Uri - 2014)",
+      "Other bibliography: Ziegler, ZPE 125 (1999), p. 214 (date)"
+    ],
+    "GreekText": "p.adl.G41  [Ψεμμῖνις]  [.....]ο̣υ\n2  [Ὥρωι]  [Νεχούτου]  [χα?]ί̣ρει̣ν̣.\n3  [ὁμολογῶ]  [ἔχειν]  [παρὰ]  [σοῦ]\n4  [χαλκοῦ]  [νομίσματος]  [τάλ?]-\n5  [αν]τ̣α̣  [τρῖα]  [ἄ?]τ̣[ο]κ̣α̣  ?.  τ̣[αῦτα]  [δέ]\n6  ἐστιν  ἃ̣  π̣ροσωφίλη̣τ̣ό̣*\n7  σοι  πρὸς  τὴν  συνγραφὴν\n8 [Τ?]α̣ΐ̣[σ?]ε̣[ως?]  τῆς  θυγατρ̣[ός]\n9  [σο]υ,  ἃ  καὶ  ἀποδ̣[ώ]σ̣[ω]  σ̣ο̣ι̣\n10  ἕ̣ω̣ς Παχὼν  λ  τοῦ  θ̣  [(ἔτους)]\n11  [ἄν]ε̣υ̣  κ̣ρ̣ίσεως  καὶ  δίκης  ·\n12  ἐ̣ὰν  δὲ  μὴ  ἀπο̣δ̣ῶι*  σοι\n13  ἕως  τοῦ  ἀφωρισμένου  χρόνου̣\n14  [ἀ]ποτίσω  σοι  τὰ  προγεγραμ-\n15  μ̣ένα  διπλ̣ᾶ  ἐ̣π̣α̣ν̣κ̣ο̣ν̣*\n16  [ε]ἶ̣ναι  δέ  σοι  τὴν  πρᾶξιν̣\n17  [ἔ]κ  τε  ἐμοῦ  καὶ  ἐκ  τῶν\n18  ὑπαρχόντ̣ω̣ν  μοι  πάντω̣ν̣\n19  πράσοντι*  καθάπερ\n20  ἐ̣γ*  δίκης.  ἔγραψεν  ὑπὲρ\n21  τοῦ  Ψεμμίνιος  Διονύ̣σ̣ιος\n22  [Ἀ]ρχεδήμου  Βερενικεὺς\n23  [ἀ]ξιωθεὶς  ὑπʼ  αὐτοῦ  διὰ  τὸ\n24  μ̣ὴ  εἰδέναι  γράμματα.\n25  (ἔτους)  η Τῦβι  κδ.",
+    "People": [
+      "Ψεμμῖνις",
+      "Ὥρωι",
+      "Νεχούτου",
+      "Ταΐσεως",
+      "Πτολεμαίου",
+      "Ψεμμίνιος",
+      "Διονύσιος",
+      "Ἀρχεδήμου"
+    ],
+    "Places": [
+      "Βερενικεύς"
+    ],
+    "Irregularities": [
+      "ἀποδῶι: read ἀποδῶ",
+      "πράσοντι: read πράσσοντι",
+      "ἐγ: read ἐκ",
+      "προσωφίλητό: read προσωφείλετό"
+    ]
+  },
+  "4": {
+    "id": 4,
+    "url": "https://www.trismegistos.org/text/4",
+    "Language": "Greek",
+    "Content": "Contract: sale",
+    "Date": "Metadata  BC 108 May 28 Provenance: Krokodilopolis - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [written] Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found] Language/script: Greek Material: papyrus Completely preserved Content (beta!): Contract: sale Recto/Verso: Ro Seal: TM Seal 885 Note: with seal More info: DDbDP (PN) , HGV Publications P. Adler Gr. 5  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 832 +→ Oslo, Private collection Schøyen number unknown ∙ London, Private collection Adler Gr. 5 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Krokodilopolis - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [written] Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found]",
+    "Material": "",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 832",
+      "+→",
+      "Oslo, Private collection Schøyen",
+      "number unknown",
+      "London, Private collection Adler",
+      "Gr. 5 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 5  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G5_11  ἔτου̣ς  θ Παχ(ὼν)  ιβ\n2  ἀπέδοτο  Ἑρμογέν̣ης\n3  Θέωνος  Ὥρωι\n4  Νεχούθου  γῆς\n5  ἀρού(ρας)  ἓξ  χα(λκοῦ)  (ταλάντων)  ϛ.p.adl.G5_21  βασιλευόντων Κλεοπάτρας  καὶ Πτολεμαίου  θεῶν Φιλομητόρων Σωτήρων  ἔτους  ἐνάτου  ἐφʼ  ἱερέως  τοῦ  ὄντος  ἐν  Ἀλ̣εξανδρεία[ι] [Ἀλεξάνδρου]  [καὶ]  [θεῶν]\n2 Σωτήρων  καὶ  θεῶν Ἀδελφῶν  καὶ  θεῶν Εὐεργετῶν  καὶ  θεῶν Φιλοπατόρων  καὶ  θεῶν Ἐπιφανῶν  καὶ  θεοῦ Εὐπάτορος  καὶ  θεοῦ Φιλ[ο]μήτορος  κα̣[ὶ]  [θεοῦ] [Φιλοπάτορος] [Νέου]\n3  καὶ  θεοῦ Εὐεργέτου  καὶ  θεῶν Φιλομητόρων Σωτήρ̣ων,  ἱεροῦ  πώλου  Ἴσιδος  μεγάλης  μητρὸς  θεῶν,  ἀθλοφόρου Βερενίκης Εὐεργέτ̣[ι]δος,  κανηφ̣[όρου] [Ἀρσινόης] [Φιλαδέλφου]  [,]\n4  ἱερείας Ἀρσινόης Φιλοπάτορος,  τῶν  <ὄντων>  <καὶ>  οὐσῶν  ἐν  Ἀλεξανδρείαι,  ἐν  δὲ  Πτολεμαΐδι  τῆς  Θηβαΐδος  ἐφʼ  ἱερέων  καὶ  ἱερειῶν  καὶ  κανηφόρ̣[ο]υ  τῶν  ὄ[ντων]  [καὶ]  [οὐσῶν]  [,]  [μηνὸς]\n5 Παχὼν  ιβ  ἐν  Κροκοδίλων  πόλει  ἐπὶ  Σώσου  ἀγορανόμου  τῆς  ἄνω  τοπαρχίας  τοῦ  Παθυρίτου.\n6  ἀπέδοτο  Ἑρμογένης  Θέωνος  Πέρσης  τῆς  ἐπιγονῆς  ὡς  (ἐτῶν)  νε  μέσος  μελίχρως  τετανὸς  ἀναφάλακρος  μακροπρόσω̣(πος)  [ε]ὐ̣θύριν  [οὐλὴ]  [?][................]\n7  λευκῷ  ὀφθαλμῶι  ἀριστερῶι  ἀπὸ  τῆς  ὑπαρχούσ̣ης  αὐτῶι  γῆς  ἠπείρου  σιτοφόρου  ἐ̣ν  τῶι  ἄνω  πεδίωι  Κ̣ρ̣[ο]κοδίλω̣ν̣  π̣ό̣λεως  Θ̣ηβ̣[α]ΐ̣δ̣[ος]  [το]ῦ̣  [Παθυρίτου]  [νομοῦ]  [πάν]-\n8  των  ἐν  ἀ(ρο)ύ(ραις)  λδ  ἀρούρας  ἕξ,  ὧν  γείτονες  νότου  γῆ  Ἀέους  ἧς  κρα(τοῦσιν)  οἱ  Φιγήριος  υἱοὶ, βορρᾶ  γῆ  Πετεσούχου  τοῦ  Πόρτιτος  καὶ  τῶν  ἀ̣[δελ(φῶν)]  [,]  [ἀπηλιώτου]  [γῆ]  [Ἰ̣σ̣ι̣δ̣ώ̣ρ̣ο̣υ̣]\n9  τοῦ  Τεῶτος,  λιβὸς  γῆ  Παχνούμιος  τοῦ  Πελαίου  καὶ  γῆ  Πετεσούχου  τοῦ  Πόρτιτος  καὶ  τῶν  ἀδελ(φῶν),  ἢ  οἳ  ἂν  ὦσι  γείτονες  πάντοθεν.  [ἐπρίατο]  [Ὧρος]  [Νεχούθου]  [Πέρσης]\n10  τῆς  ἐπιγονῆς  ὡς  (ἐτῶν)  λϛ  μέσος  μελίχρως  ὑποκλαστὸς  ἀναφάλανθος  μακροπρόσω(πος)  εὐθύρ(ιν)  ὦς*  ἀρ(ιστερὸν)  τετρη(μένον),  χα(λκοῦ)  (ταλάντων)  ἕξ.  προπωλητὴς  [καὶ]  [βεβαιωτὴς]  [τῶν]  [κατὰ]  [τὴν]  [ὠνὴν]\n11  πάντων  Ἑρμογένης  ὁ  ἀποδόμενος,  ὃν  ἐδέξατο  Ὧρος  ὁ  πριάμενος.  Πανίσκος  ὁ  σὺν  Σώσωι  κεχρ̣η̣(μάτικα).\n12  Ἀπολλώνιος  ὁ  σὺν  Νικομάχωι  ·  κατατέθειται  τὸ  ἀντίγραφον  ἐν  τῆι  βυβλιοθήκηι*.  (ἔτους)  θ Παχὼν  ιβ.",
+    "People": [
+      "Ἑρμογένης",
+      "Ὥρωι",
+      "Θέωνος",
+      "Νεχούθου",
+      "Σώσου",
+      "Θέωνος",
+      "Ἑρμογένης",
+      "Ἰσιδώρου",
+      "Πετεσούχου",
+      "Πόρτιτος",
+      "Ἀέους",
+      "Φιγήριος",
+      "Νεχούθου",
+      "Τεῶτος",
+      "Παχνούμιος",
+      "Πελαίου",
+      "Πετεσούχου",
+      "Πόρτιτος",
+      "Ὧρος",
+      "Ὧρος",
+      "Σώσωι",
+      "Πανίσκος",
+      "Ἑρμογένης",
+      "Ἀπολλώνιος",
+      "Νικομάχωι"
+    ],
+    "Places": [
+      "ἐν Ἀλ̣εξανδρεία[ι]",
+      "ἐν Ἀλεξανδρείαι",
+      "ἐν δὲ Πτολεμαίδι",
+      "τῆς Θηβαίδος",
+      "ἐν Κροκοδίλων πόλει",
+      "τῆς Ἄνω τοπαρχίας",
+      "τοῦ Παθυρίτου",
+      "Πέρσης τῆς ἐπιγονῆς",
+      "Κρ[ο]κοδίλων πόλεως",
+      "Θ̣ηβ̣[α]ί̣δ̣[ος]",
+      "[το]ῦ̣ [Παθυρίτου νομοῦ]",
+      "[Πέρσης] τῆς ἐπιγονῆς"
+    ],
+    "Irregularities": [
+      ": read <ὄντων καὶ>",
+      "ὦς: read οὖς",
+      "βυβλιοθήκηι: read βιβλιοθήκηι"
+    ]
+  },
+  "5": {
+    "id": 5,
+    "url": "https://www.trismegistos.org/text/5",
+    "Language": "Greek",
+    "Content": "Contract: loan",
+    "Date": "Metadata  Phaophi (2nd month Achet season) ? : BC 106 Oct 19 - Nov 17? Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Incompletely preserved Content (beta!): Contract: loan Recto/Verso: Ro/Vo, back: summary More info: BL Online , DDbDP (PN) , HGV Publications P. Adler Gr. 6  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 833 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 6 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 833",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 6 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 6  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G6_11  ἔτους  ιβ  τοῦ  καὶ  θ  Φ[αῶφι?][..]\n2  ἐν̣  Παθύρει  ἐφʼ  Ἑρμί[ου]  [τοῦ]  [πα]-\n3  ρὰ  Πανίσκου  ἀγοραν̣[όμου].\n4  ἐ̣δ̣ά̣νεισεν  Ὧρος̣  Ν̣[εχούτου]\n5  [Π]έ̣ρ̣σ̣η̣ς̣  τ̣ῆ̣[ς]  [ἐ?]π̣ι̣γ̣ο̣[νῆς?]  [Ὥρῳ]\n6  Λαμέ̣νθιος  Πέρσῃ  [τῆς]  [ἐπι]-\n7  γο̣νῆς  κρότωνος  ἀρ̣[τάβην]\n8  μίαν̣  ιβ´  ἄτο̣κα  τῷ  ἑ[αυτοῦ?]\n9  μέ̣τρῳ  δο̣χ̣ι̣κῷ  ·  τ̣[ὸ]  [δὲ]  [δά]-\n10  νειον  τοῦτο  ἀποδότω  ὁ  δε̣-\n11  δανεισμένος  Ὥρῳ  ἐν  μηνὶ\n12 Παχὼν  <τοῦ>  προκειμένου  ἔτους  ·\n13  ἐὰν  δὲ  μὴ  ἀ̣π̣ο̣δ̣ῷ  ἐν̣  [τ]ῷ  ὡρ̣ισ-\n14  μένῳ  χ̣ρόνῳ  ἀποτεισάτω\n15  παραχρῆμα  ἡμιόλιον  τὴν\n16  ἐσομένην  ἐν  τῇ  ἀγορᾷ  τι-\n17  μήν  ·  ἡ  δὲ  πρᾶξεις*  ἔστ[ω]  [Ὥρῳ]\n18  ἐκ  τοῦ  δεδανεισμένο̣[υ]  [καὶ]\n19  ἐκ  τῶν  ὑπαρχόντων  [αὐτῷ]\n20  πάντων  πράσσοντι  κ[αθά]-\n21  περ  ἐγ*  δίκης.\n22  Ἑρμί(ας)  ὁ  παρὰ  Πανί(σκου)  κεχρη(μάτικα).p.adl.G6_21  δ̣ά̣(νειον)  Ὥρωι  Λαμένθιος\n2  κ̣ρ̣ό̣τ̣ω(νος)  (ἀρτάβης)  α  ιβ´.",
+    "People": [
+      "Ἑρμίου",
+      "Πανίσκου",
+      "Νεχούτου",
+      "Ὧρος",
+      "Ὥρῳ",
+      "Λαμένθιος",
+      "Ὥρῳ",
+      "Ὥρῳ",
+      "Πανίσκου",
+      "Ἑρμίας",
+      "Ὥρωι",
+      "Λαμένθιος"
+    ],
+    "Places": [
+      "ἐν̣ Παθυρει",
+      "[Π]έ̣ρ̣σ̣η̣ς̣ τ̣ῆ̣[ς ἐ]π̣ι̣γ̣ο̣[νῆς]",
+      "Πέρσῃ [τῆς ἐπι]γο̣νῆς"
+    ],
+    "Irregularities": [
+      ": read <τοῦ>",
+      "πρᾶξεις: read πρᾶξις",
+      "ἐγ: read ἐκ"
+    ]
+  },
+  "6": {
+    "id": 6,
+    "url": "https://www.trismegistos.org/text/6",
+    "Language": "Greek",
+    "Content": "Contract: sale",
+    "Date": "Metadata  BC 104 Jul 2 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Content (beta!): Contract: sale Recto/Verso: Ro More info: BL Online , DDbDP (PN) , HGV Publications P. Adler Gr. 7  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Other bibliography: Vierros, Tyche 33 (2018), p. 214-215 Collections → Copenhagen, Carlsberg Papyrus Collection P. 834 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 7 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "papyrus",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 834",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 7 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 7  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]",
+      "Other bibliography: Vierros, Tyche 33 (2018), p. 214-215"
+    ],
+    "GreekText": "p.adl.G7dupl1  ἀντίγραφον  ὠνῆς̣.\n2  βασιλευόντων Κλεοπ̣άτρας  κα̣ὶ  βασιλέως̣ Πτο̣λε̣μ[αίου]  [τοῦ]  [ἐπικαλουμένου] [Ἀλεξάνδρου]\n3  τοῦ  υἱοῦ  θεῶν Φιλομη̣τ̣όρων Σωτήρων  ἔτους  ιγ  [τοῦ]  [καὶ]  [ι]  [,]  [ἐφʼ]  [ἱερέων]  [καὶ]  [ἱερειῶν]\n4  καὶ  κανηφόρου  τῶν  ὄν̣τ̣ων  καὶ  οὐσῶν,  μ[η]νὸς Π̣αῦνι̣  [ιη]  [ἐν]  [Παθύρει]  [ἐφʼ]  [Ἑρμίου]  [τοῦ]  [παρὰ]\n5  Π̣[αν]ί̣σκου  ἀγορανόμο̣υ̣.  ἀπ̣έδοτ̣[ο]  Θ̣α̣ῖβις  Φ[ί]βιος  Περσί̣[νη]  [ὡς]  [(ἐτῶν)]  [νη]  [μέση]\n6  μ̣ε[λί]ρω(ς)  μακροπρόσωπος  εὐ̣θύριν  ὑπό̣σ̣κνιφ̣ο̣ς̣,  μετὰ  κυρίου  το̣[ῦ]  [ἑαυτῆς]  [ἀδελφοῦ]\n7  Π̣αους*  πρεσβυτερος*  Πα̣το̣ῦ̣τ̣ο̣ς̣  τοῦ  Φαγώ̣νιος  Πέρ̣σου̣  ὡς  (ἐτῶν)  λε  [μέσου]  [μελιχρ(όου)]\n8  ὑ̣ποκλαστοῦ  μακροπ[ρο]σ̣ώπο[υ]  εὐθυρίν[ο]υ  ἀσήμ[ου],  ἀπὸ  το̣[ῦ]  [ὑπάρχοντος]\n9  αὐτῇ  ἐδάφος*  φοινικ[ῶ]ν̣ος  φυ[ο]μένων  τοῦ  ὄντ̣ος  ἐ̣ν  τῷ  ἀπ̣[ὸ]  [ἀπηλιώτου]\n10  μ̣έρει  Παθύρεως  τὸ  ἐπιβάλλον  Πασ̣ῆμι̣  Ν̣εχούθ̣[ο]υ̣  τῷ  ἑα̣[υτῆς]  [υἱῷ]  [μέρος]  [ἕκτον]  [,]\n11  ἧ̣ς  γείτονες  νότου̣  τὸ  μ̣έρο̣ς  φο̣ίνικῶ̣νο̣[ς]  Π̣αν̣ερ[ε]ῦτος, βορ̣[ρᾶ]  [καὶ]  [ἀπηλιώτου]\n12  Ὥρου  τοῦ  Νεχούθου,  λιβὸς  διῶρυξ̣,  ἢ  οἳ  ἂν̣  [ὦ]σ̣ι  γείτον̣ε̣ς̣  πάν[τοθεν]  [.]  [ἐπρίαντο]\n13  Φ[ῖ]β̣ις  καὶ  Ὧρος  οἱ  δύο  τῶν  Νεχούθο̣υ̣  [τῶν]  [ἐ]κ̣  Θα[ίβιο]ς  τῆς  Φ[ίβιος]  [ἴσην]\n14  τ̣ρ̣ί̣τ̣ην  με̣ρίδα  χαλκοῦ  τά<λαντα>  δύο  δρα̣[χμὰ]ς  τετρ[α]κιχιλία̣[ς]*.  [προπωλήτρια]\n15  [καὶ]  [β̣εβαιώτρια]  [τῶν]  [κατὰ]  [τὴν]  [ὠνὴν]  [ταύτην]  [πάντων]  [Θαῖβις]  [ἡ]  [ἀποδομένη?]  [,]\n16  [ἣν]  [ἐδέξαντο]  [Φῖβις]  [καὶ]  [Ὧρος]  [οἱ]  [πριάμενοι]  [.]  [Ἑρμίας]  [ὁ]  [παρὰ]  [Πανίσκου]  [κεχρη(μάτικα)].",
+    "People": [
+      "Ἑρμίου",
+      "Φίβιος",
+      "Θαῖβις",
+      "Πανίσκου",
+      "Παους",
+      "Πατοῦτος",
+      "Φαγώνιος",
+      "Πασῆμι",
+      "Νεχούθου",
+      "Πανερεῦτος",
+      "Ὥρου",
+      "Νεχούθου",
+      "Ὧρος",
+      "Φῖβις",
+      "Νεχούθου",
+      "Θαίβιος",
+      "Φίβιος",
+      "Θαῖβις",
+      "Ὧρος",
+      "Πανίσκου",
+      "Ἑρμίας",
+      "Φῖβις",
+      "Πανίσκος(old PP)"
+    ],
+    "Places": [
+      "[ἐν Παθυρει]",
+      "Περσί̣[νη]",
+      "Πέρ̣σου̣",
+      "Παθυρεως"
+    ],
+    "Irregularities": [
+      "τά: read τά<λαντα>",
+      "τετρακιχιλίας: read τετρακισχιλίας",
+      "Παους: read Παοῦτος",
+      "πρεσβυτερος: read πρεσβυτέρου",
+      "ἐδάφος: read ἐδάφους"
+    ]
+  },
+  "7": {
+    "id": 7,
+    "url": "https://www.trismegistos.org/text/7",
+    "Language": "Greek",
+    "Content": "Contract: sale",
+    "Date": "Metadata  BC 104 Jul 2 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Content (beta!): Contract: sale Recto/Verso: Ro More info: BL Online , DDbDP (PN) , HGV Publications P. Mil. 1.1 2  ( Daris, Sergio - 1967) [default] ∙ P. Mil. 1 2  ( Calderini, Aristide - 1928) ∙ P. Mil. 1 2 fr. a-b ( Calderini, Aristide - 1928) ∙ SB 3 6645  ( Bilabel, Friedrich - 1926) ∙ Recueil d'études égyptologiques dédiées à la mémoire de Jean-François Champollion p. 677 ( Bell, Harold Idris - 1922) Other bibliography: Vierros, Tyche 33 (2018), p. 214-215 Collections → Milan, Università Cattolica P. Med. number unknown ∙ Milan, Private collection Jacovelli-Vita number unknown (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "papyrus",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Milan, Università Cattolica",
+      "P. Med. number unknown",
+      "Milan, Private collection Jacovelli-Vita",
+      "number unknown (previous)"
+    ],
+    "Publications": [
+      "P. Mil. 1.1 2  ( Daris, Sergio - 1967) [default]",
+      "∙ P. Mil. 1 2  ( Calderini, Aristide - 1928)",
+      "∙ P. Mil. 1 2 fr. a-b ( Calderini, Aristide - 1928)",
+      "∙ SB 3 6645  ( Bilabel, Friedrich - 1926)",
+      "∙ Recueil d'études égyptologiques dédiées à la mémoire de Jean-François Champollion p. 677 ( Bell, Harold Idris - 1922)",
+      "Other bibliography: Vierros, Tyche 33 (2018), p. 214-215"
+    ],
+    "GreekText": "p.mil.1.2rptripl1  βασιλευόντων Κλεοπάτρας  καὶ  βασιλέως Πτολεμαίου  τοῦ  ἐπικαλουμένου Ἀλεξάνδρου  τοῦ  υἱοῦ  θεῶν Φιλομ[ητ]όρων\n2  ἔτους  ιγ  τοῦ  καὶ  ι  ἐφʼ  ἱερείων  καὶ  ἱερειῶν  καὶ  κανηφόρου  τῶν  ὄντων  καὶ  οὐσῶν,  μηνὸς Παῦνι  ιη,  ἐν  Παθύρε[ι]\n3  ἐφʼ  Ἑρμίου  τοῦ  παρὰ  Πανίσκου  ἀγορανόμου.\n4  ἀπέδοτο  Θαίβις  Φίβιος  Περσίνη  ὡς  (ἐτῶν)  νη,  μέση  μελίχρω(ς)  μακροπρόσω(πος)  εὐθύριν  ὑπόσκνιφος,  μετὰ  κυρίου  τοῦ  [ἑ]αυτῆς  ἀδε[λφ]οῦ\n5  Παοῦς*  πρεσβύτερος*  Πατοῦτος  τοῦ  Φαγώνιος  Πέρσου  ὡς  (ἐτῶν)  λε,  μέσου  μελίχρω(τος)  ὑποκλάστου  μακροπροσώ(που)  εὐθυρίνου  ἀ[σή]μου,\n6  ἀπὸ  τοῦ  ὑπαρχόντος  αὐτῇ  ἔδαφος*  φοινικῶνος  φυομένων  τοῦ  ὄντος  ἐν  τῷ  ἀπὸ  ἀπηλιώ(του)  μέρει  Παθύρεως  τὸ  [ἐ]πι-\n7  βάλλον  Πασῆμι  Νεχούτου  τῶι  ἑαυτῆς  υἱοῦ*  μέρος  ἕκτον,  ἧς  γείτονες  νότου  τὸ  μέρος  φοινικῶνος  Πανερεῦτ̣[ο]ς,\n8 βορρᾶ  καὶ  ἀπηλιώ(του)  Ὥρου  τοῦ  {του}  Νεχούτου,  λιβὸς  διῶρυξ  ἢ  οἱ  ἂν  ὧσι  γείτονες  πάντοθεν.  ἐπρίατο  Φῖβις  καὶ  Ὧρο[ς]  οἱ  δύο\n9  τῶν  Νεχούτου  τῶν  ἐκ  Θαίβιος  τῆς  Φίβιος  ἴσην  τρίτην  μερίδα  χαλκοῦ  τάλαντα  δύο  δραχμὰς  τετρακισχιλ[ί]ας.\n10  προπωλήτρια  καὶ  βεβαιώτρια  τῶν  κατὰ  τὴν  ὠνὴν  ταύτην  πάντων  Θαίβις  ἡ*  ἀποδομένη  οὓς  ἐδέξαντο\n11  Φῖβις  καὶ  Ὧρος  οἱ  πριάμενοι.\n12  Ἑρμίας  ὁ  παρ\\ὰ/  Πανίσκου  κεχρη(μάτικα)",
+    "People": [
+      "Ἑρμίου",
+      "Πανίσκου",
+      "Φίβιος",
+      "Θαίβις",
+      "Παους",
+      "Πατοῦτος",
+      "Φαγώνιος",
+      "Πανερεῦτος",
+      "Νεχούτου",
+      "Πασῆμι",
+      "Ὧρος",
+      "Φῖβις",
+      "Νεχούτου",
+      "Ὥρου",
+      "Νεχούτου",
+      "Θαίβιος",
+      "Φίβιος",
+      "Θαίβις",
+      "Ὧρος",
+      "Φῖβις",
+      "Πανίσκου",
+      "Ἑρμίας"
+    ],
+    "Places": [
+      "ἐν Παθυρε[ι]",
+      "Περσίνη",
+      "Πέρσου",
+      "Παθυρεως"
+    ],
+    "Irregularities": [
+      "του: read {του}",
+      "ἡ: read ἣν",
+      "Παοῦς: read Παοῦτος",
+      "πρεσβύτερος: read πρεσβυτέρου",
+      "ἔδαφος: read ἐδάφους",
+      "υἱοῦ: read υἱῷ"
+    ]
+  },
+  "8": {
+    "id": 8,
+    "url": "https://www.trismegistos.org/text/8",
+    "Language": "Greek",
+    "Content": "Contract: sale",
+    "Date": "Metadata  BC 104 Jul 9 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Content (beta!): Contract: sale Recto/Verso: Ro More info: DDbDP (PN) , HGV Publications P. Adler Gr. 8  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 835 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 8 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "papyrus",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 835",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 8 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 8  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G81  [βασιλ]ευόντων Κλεοπάτρας  καὶ  βασιλέως Πτολεμαίου  τοῦ  ἐπικαλουμένου Ἀλεξαν*  τοῦ  υἱοῦ  θεῶν Φιλομητόρων\n2  [ἔτου]ς̣  ιγ̣  το̣ῦ  καὶ  ι  ἐφʼ  ἱ̣ερέων  <καὶ>  <ἱερειῶν>  καὶ  κανηφόρου  τῶν  ὄντων  καὶ  οὐσῶν  μηνὸς Παῦνι  κε̣  ἐν  Παθύρει  ἐφʼ  Ἑρμίου\n3  [τοῦ]  [π]α̣ρὰ  Παν̣ίσκου  ἀ̣γορανόμου.\n4  ἀ̣πέδ̣οτο  Θαῖβις  Φίβιος  Περσίνη̣  ὡ̣ς  (ἐτῶν)  νη  μέση  μελίχρω(ς)  στρογγυλοπρόσω(πος)  εὐ̣θύριν  ὑπόσκνιφος,  μετὰ  κυ-\n5  ρ̣ίου  τοῦ  ἑαυτῆ̣ς  συνγενοῦς  Παους*  πρεσβυτερος*  Πατοῦτος  τοῦ  Φαγώνιος  Πέρσου  ὡς  (ἐτῶν)  λε  μέσου  μελίχρω(τος)\n6  μ̣α̣κροπροσώ(που)  εὐθυρίνου  οὐλὴ  κνήμῃ  ἀριστερόν,  ἀπὸ  τοῦ  ὑπάρχ̣ο̣ντος  αὐτῇ  ἐδάφος*  φοινικῶνος\n7  φυο̣μένων  κ̣αὶ  τῶν  συνκυρό̣ντ̣ων  πάντων,  τῆς  οὔσης  ἐν  τῷ  ἀπὸ  ἀπηλιώ(του)  μέρει  Παθύρεως  ἐκτὸς\n8  δ̣ι[ώρ]υγος,  τὸ  ἐπιβάλλον  Πασῆμι  τῶι  νεωτέρῳ  μου  υἱῶι  ἕκτον  μέρος,  οὗ  γείτονες  νότου  καὶ  ἀπηλιώ(του)\n9  [τ]ὸ̣  [λοι]π̣ὸν  φοινικῶνος  αὐτῆς, βορρᾶ  Γούνσιος  τοῦ  Θοτομοῦτος,  λιβὸς  διῶρ̣υξ,  ἢ  οἳ  ἂν  ὦσι  γείτονες  πάντοθεν  ·\n10  [τοῦτο]  δʼ  ἔστιν  πεπραμένον  διὰ  τὸ  μὴ  ποιῆσαι  τὰ  ἑσταμένα.  ἐπρίατ̣ο̣  Πανοβ̣χοῦνις  Νεχούτου  ὡς  (ἐτῶν)  με\n11  [χαλ]κοῦ  τάλαντον  ἓν̣  δραχμὰς  δισχιλίας.  προπωλήτρια  καὶ  βεβαι̣ώ̣τρια  τῶν  κατὰ  τὴν  ὠνὴν  ταύτην\n12  [πάν]των  Θαῖβις  ἡ  ἀποδομένη,  ὁ̣ν*  ἐδέξατο  Πανοβχοῦνις  ὁ  πριάμενος.  Ἑρμίας  ὁ  παρὰ  Πανίσκου  κεχρη(μάτικα).",
+    "People": [
+      "Ἑρμίου",
+      "Πανίσκου",
+      "Φίβιος",
+      "Θαῖβις",
+      "Παους",
+      "Πατοῦτος",
+      "Φαγώνιος",
+      "Πασῆμι",
+      "Γούνσιος",
+      "Θοτομοῦτος",
+      "Πανοβχοῦνις",
+      "Νεχούτου",
+      "Πανίσκου",
+      "Ἑρμίας",
+      "Θαῖβις",
+      "Πανοβχοῦνις"
+    ],
+    "Places": [
+      "ἐν Παθυρει",
+      "Περσίνη̣",
+      "Πέρσου",
+      "Παθυρεως",
+      "διῶρυξ"
+    ],
+    "Irregularities": [
+      ": read <καὶ ἱερειῶν>",
+      "ὁν: read ἣν",
+      "Παους: read Παοῦτος",
+      "πρεσβυτερος: read πρεσβυτέρου",
+      "ἐδάφος: read ἐδάφους"
+    ]
+  },
+  "9": {
+    "id": 9,
+    "url": "https://www.trismegistos.org/text/9",
+    "Language": "Greek",
+    "Content": "Receipt: taxes",
+    "Date": "Metadata  (a) BC 104 Sep 3 date of contract (b) BC 104 Sep 12 date of tax receipt Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Incompletely preserved Content (beta!): Receipt: taxes Recto/Verso: Ro Seal: TM Seal 886 Note: with seal More info: BL Online [ 2 ], DDbDP (PN) , HGV [ 2 ] Publications P. Adler Gr. 9  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 836 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 9 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 836",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 9 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 9  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G9_11  (ἔτους)  <ιγ>  <τοῦ>  <καὶ>  ι Μεσορὴ  κα\n2  ἀπέδοτο  Ἁκετε-\n3  φνάχθης  (ἥμισυ)\n4  οἰκίας̣  καὶ̣  α̣ὐλ̣ῆς.\n5  ἐπρίατο  Σενενο̣ῦ(φις)\n6  καὶ  Σεμπε̣λαίας̣\n7  χα(λκοῦ)  Γ.p.adl.G9_23  [Σενενούφιος?]\n4  Φίβιος,\n5  Σεμπε(λαίας)\n6  γυ̣ν̣ῶν*p.adl.G9_31  βασιλευόντων Κλεοπάτρας  καὶ  βασιλέως Πτολεμαίου  ἐπικα̣λουμένου Ἀλεξάνδρου  θεῶν\n2 Φιλομητόρων  ἔτους  ιγ  τοῦ  καὶ  ι  ἐφʼ  ἱερε̣ίων*  καὶ  ἱερειῶν  καὶ  κανηφόρου  τῶν  ὄντων  κ̣α̣ὶ  οὐσῶν  μηνὸς\n3 Μεσορὴ  κα  ἐν  Παθύρει  ἐφʼ  Ἑρμίου  τοῦ  παρὰ  Πανίσκου  ἀγορανόμου.\n4  ἀπέδοτο  Ἁκετεφνάχθης  Ψεμμών̣θου  χρυσοχοῦς  τῶν  ἀπὸ  Λάτων  πόλεως  ὡς  (ἐτῶν)  ν  εὐμέ̣θης*\n5  μελίχρως  τετανὸς  ἀναφά(λακρος)  πλατυπρόσωπος  εὐθύριν  ἀπὸ  τῆς  ὑπαρχούσης  αὐτῷ  οἰκίας\n6  ὠικοδομημένης*  καὶ  κεκαμαρωμένης  ἐν  τῷ  ἀπὸ  λι(βὸς)  μέρει  ταύτης  καὶ  τῆς  προσούσης  αὐλῆς,  τούτων  τὸ  ἥμισυ,  τῆς\n7  οὔσης  ἐν  τῷ  ἀπὸ  λιβὸς  μέρει̣  Παθύρεως  ·  γείτονες  τῆς  ὅλης  οἰκίας  καὶ  τῆς  αὐλῆς  νότου  καὶ\n8  λιβὸς  οἰκία  Πελαίου  τοῦ  Ζνεβωνύχου, βορρᾶ  οἰκία  Πατῆτος,  ἀπηλιώτου  ῥύμη  βασιλική,\n9  ἢ  οἳ  ἂν  ὦσι  γείτονες  πάντοθεν.  ἐπρίατο  Σενενοῦφις  Φίβιος  Περσίνη  κα̣ὶ  Σεμπελαίας\n10  Πμόιτος  ἡ  ταύτης  θυγάτηρ,  ἑκάστη  αὐτῶν  κ̣ατὰ  τὸ  ἥμισυ  τοῦ  ἡμίσους  τοῦ  πεπρα-\n11  μένου,  χαλκοῦ  (δραχμῶν)  Γ.  ἀνοίξουσι  τ̣ὴν  θύραν  αἱ  δύο  εἰς  τὴν  ῥύμην  βαλικὴν*  ἐν  τῷ  ἀπη-\n12  λιώτου.  προπωλητὴς  καὶ  βεβαιωτὴς  Ἁκετεφνάχθη̣ς  ὁ  ἀποδόμενος,  ὃν  ἐδέξατο  Σενενο̣ῦφ̣ι̣ς\n13  καὶ  Σεμπελαίας  οἱ*  πριάμενοι*.\n14  Ἑρμί(ας)  κεχρη(μάτικα).p.adl.G9_41  ἔτο̣υ̣ς̣  ιγ  <τοῦ>  <καὶ>  ι Μεσορὴ  λ  τε(τάχαται)  εἰς̣  τὸ̣  [ἐγκυκλίου]\n2  θέμα  μέ̣χ̣ρι  διαγρα(φῆς)  Σε̣νε̣[νοῦφις]  [Φίβιος]\n3  καὶ  Σενπελαίας  Φμόιτ̣[ος]  [τῆς]  [ἠ]γ̣ο̣ρ̣α̣σ̣μέ̣ν̣η̣[ς]\n4  οἰκίας  ὠικοδο(μημένης)*  καὶ  κεκαμαρ[ω(μένης)]  [κ]αὶ  τῆς\n5  προσούσ̣[η]ς  αὐλῆς  τὸ  ?,  <ἣν>  ἠγό̣ρασεν*  παρὰ̣\n6  {παρὰ}  Ἁκ[ε]τεπνάχθο̣υ̣  τοῦ  Ψεμμώνθο̣[υ]\n7  χαλκοῦ  Γ  τέλ̣ο̣ς̣  τ.\n8  Πανί̣σ̣κ̣ο̣ς̣  τρα(πεξίτης)  τξ.",
+    "People": [
+      "Σενενούφιος",
+      "Φίβιος",
+      "Σενενοῦφις",
+      "Σεμπελαίας",
+      "Σεμπελαίας",
+      "Ἁκετεφνάχθης",
+      "Πανίσκου",
+      "Ἑρμίου",
+      "Ψεμμώνθου",
+      "Ἁκετεφνάχθης",
+      "Πελαίου",
+      "Ζνεβωνύχου",
+      "Πατῆτος",
+      "Σενενοῦφις",
+      "Φίβιος",
+      "Σεμπελαίας",
+      "Πμόιτος",
+      "Ἁκετεφνάχθης",
+      "Σενενοῦφις",
+      "Σεμπελαίας",
+      "Ἑρμίας",
+      "Σενενοῦφις",
+      "Φίβιος",
+      "Σενπελαίας",
+      "Φμόιτος",
+      "Ἁκετεπνάχθου",
+      "Ψεμμώνθου",
+      "Πανίσκος"
+    ],
+    "Places": [
+      "ἐν Παθυρει",
+      "ἀπὸ Λάτων πόλεως",
+      "Παθυρεως",
+      "ῥύμη βασιλική",
+      "Περσίνη",
+      "εἰς τὴν ῥύμην βα<σι>λικήν"
+    ],
+    "Irregularities": [
+      ": read <ιγ τοῦ καὶ>",
+      ": read <τοῦ καὶ>",
+      ": read <ἣν>",
+      "παρὰ: read {παρὰ}",
+      "οἱ: read αἱ",
+      "πριάμενοι: read πριάμεναι",
+      "ἱερείων: read ἱερέων",
+      "ὠικοδομημένης: read ᾠκοδομημένης",
+      "ἠγόρασεν: read ἠγόρασαν"
+    ]
+  },
+  "10": {
+    "id": 10,
+    "url": "https://www.trismegistos.org/text/10",
+    "Language": "Greek",
+    "Content": "Contract: loan",
+    "Date": "Metadata  BC 101 Jun 22 Provenance: Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written] Language/script: Greek Material: papyrus Content (beta!): Contract: loan Recto/Verso: Ro/Vo, back: summary More info: BL Online , DDbDP (PN) , HGV Publications P. Adler Gr. 10  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default] Collections → Copenhagen, Carlsberg Papyrus Collection P. 837 ∙ Oslo, Private collection Schøyen number unknown (previous) ∙ London, Private collection Adler Gr. 10 (previous) Archive Horos son of Nechoutes",
+    "Provenance": "Pathyris (Gebelein) - Egypt ( 4th Upper Egyptian nome - Aegyptus ) [found & written]",
+    "Material": "papyrus",
+    "Archive": [
+      "Horos son of Nechoutes"
+    ],
+    "Collections": [
+      "Copenhagen, Carlsberg Papyrus Collection",
+      "P. 837",
+      "Oslo, Private collection Schøyen",
+      "number unknown (previous)",
+      "London, Private collection Adler",
+      "Gr. 10 (previous)"
+    ],
+    "Publications": [
+      "P. Adler Gr. 10  ( Adler, Elkan N. / Tait, John Gavin / Heichelheim, Fritz Moritz - 1939) [default]"
+    ],
+    "GreekText": "p.adl.G10_11  ἔτους  ιϛ  τοῦ  καὶ  ιγ Παῦνι  θ  ἐν  Παθύρει\n2  ἐφʼ  Ἑρμίου  τοῦ  παρὰ  Πανίσκου  ἀγορανόμου.\n3  ἐδάνεισεν*  Ἀγαθῖνος  Φιλοξένου  τοῦ  παρὰ\n4  Πλάτωνος  τοῦ  συνγενοῦς  καὶ  στρατηγοῦ\n5  καὶ  Πατῆς  Ποήριος  οἱ  δύο  Πανᾶτι  Πατῆτος\n6  τῶν  ἐκ  Παθύρεως  Πέρσης  τῆς  ἐπιγονῆς\n7  ὡς  (ἐτῶν)  λ  εὐμεγέθη̣ς  μελίχρως  τετανὸς\n8  μακροπρόσωπος  εὐθύριν  οὐλὴ  φαλάνθῳ  ἀριστερῶι\n9  χαλκοῦ  νομίσματος  τάλαντα  δέκα  δύο,  (γίνεται)  (τάλαντα)  ιβ,\n10  ἄτοκα,  ἡμερῶν  τριάκοντα  ἀπὸ  μη(νὸς) Παῦνι  θ.\n11  τὸ  δὲ  δάνειον  τοῦτο  ἀποδότω  ὁ  δεδανεισ-\n12  μένος  Πανᾶς  Ἀγαθίνωι  καὶ  Πάτης*  τοῖς  δα(νείζουσιν)\n13  ἐν  μη(νὶ) Ἐπεὶφ  εἰκάδος  τοῦ  αὐτοῦ  (ἔτους)  ·  ἐὰν  δὲ\n14  μὴ  ἀποδῶι  ἐν  τῶι  ὡρισμένωι  χρόνωι  ἀπο-\n15  τεισω*  καθὰ  γέγρα(πται)  παραχρῆ(μα)  ἐπάναγκον  ·  ἡ  δὲ\n16  πρᾶξις  ἔστω  Ἀγαθίνωι  καὶ  Πάτης*  ἐκ  τοῦ  δεδα-\n17  νεισμενος*  Πανᾶτος  καὶ  ἐκ̣  τῶν  ὑπαρχόντων\n18  αὐτων*  πάντων  πράσσοντι  καθάπερ  ἐγ*  δίκης.\n19  Ἑρμίας  ὁ  παρὰ  Πανίσκου  κεχρη(μάτικα).p.adl.G10_220  ἔτους  ιϛ  τοῦ  καὶ  ιγ Παῦν̣ι̣  θ̣\n21  δά(νειον)  Ἀγαθίνωι  καὶ  Πάτης*  πρὸς\n22  Πα̣νας*  Πατῆ̣τ̣ο̣ς̣  χα(λκοῦ)  (ταλάντων)  ιβ.",
+    "People": [
+      "Πανίσκου",
+      "Ἑρμίου",
+      "Ἀγαθῖνος",
+      "Φιλοξένου",
+      "Πλάτωνος",
+      "Πατῆς",
+      "Ποήριος",
+      "Πανᾶτι",
+      "Πατῆτος",
+      "Πανᾶς",
+      "Ἀγαθίνωι",
+      "Πατης",
+      "Πατης",
+      "Ἀγαθίνωι",
+      "Πανᾶτος",
+      "Πανίσκου",
+      "Ἑρμίας",
+      "Ἀγαθίνωι",
+      "Πατης",
+      "Πανας",
+      "Πατῆτος"
+    ],
+    "Places": [
+      "ἐν Παθυρει",
+      "ἐκ Παθυρεως",
+      "Πέρσης τῆς ἐπιγονῆς"
+    ],
+    "Irregularities": [
+      "Πάτης: read Πατῆτι",
+      "δεδανεισμενος: read δεδανεισμένου",
+      "αὐτων: read αὐτῶι",
+      "ἐγ: read ἐκ",
+      "ἐδάνεισεν: read ἐδάνεισαν",
+      "Πάτης: read Πατῆτι",
+      "Πανας: read Πανᾶτα"
+    ]
+  }
+}
