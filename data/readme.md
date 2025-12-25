@@ -1,1 +1,4 @@
-Pour une version plus riche : https://github.com/Dinarque/INALCO_Techniques_web_en_python_2025/blob/main/TP/papyrus_corpus.csv
+
+**remarque méthodologique** : les colonnes "People List" et "Places list" ont un format différent pour les 10 nouveaux papyrus, donc le notebook ipynb ne fonctionne plus.
+Cela tient notamment à ce qu'originellement les noms de personnes (dans "People List") et les noms de lieux (dans "Places List") étaient entre crochets et entre accolades respectivement.
+Ce n'est plus le cas pour les 10 nouveaux éléments. Il faut ou bien ajouter manuellement des crochets et des accolades, ou bien modifier légèrement la pipeline de nettoyage
