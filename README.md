@@ -15,4 +15,8 @@ https://github.com/PerrineQhn/Chasse-au-Papyrus/tree/main/scripts
 https://github.com/ASVienot/langage_script_TP_papyrus/blob/main/corpus_analysis.py
 -> intéressant, elle a supprimé les colonnes inutiles (cela permet au csv d'être moins lourd)
 
+https://github.com/NgauvNicolas/Langages_de_Script/tree/main/TP2
+
 https://github.com/Dinarque/INALCO_Inalco_M2_langage_de_scripts_2024_eleves/tree/main/Corrections/TP2 (correction du professeur)
+
+
